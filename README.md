@@ -1,5 +1,9 @@
 # CNN_Cancer_Detection
 
+final CNN file:
+
+Cancer_Detector_Week3_Assignment_main_notebook_with_final_CNN.ipynb
+
 ### Please note: this assignment 3 to detect cancer from images was built using google Colab - Using an A100 GPU (40 GB) and 84 GB RAM.
 
 ## Brief Description of the Problem and Data
