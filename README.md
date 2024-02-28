@@ -3,7 +3,7 @@
 ### Please note: this assignment 3 to detect cancer from images was built using google Colab - Using an A100 GPU (40 GB) and 84 GB RAM.
 
 ## Brief Description of the Problem and Data
-The below is from a Kaggle competition. Here is the Kaggle link for reference.
+The below is from a Kaggle competition. Here is the Kaggle link for reference. (https://www.kaggle.com/c/histopathologic-cancer-detection/overview)
 The Kaggle competition focuses on using deep learning techniques to detect cancer from histopathologic scan images. The dataset comprises over 200,000 .tif image files, with the problem framed as a binary classification task (cancerous vs. non-cancerous). Each image is labeled 1 for cancerous and 0 for non-cancerous. To manage the dataset size and facilitate processing on Google Colab, the images were consolidated into a single .pickle file. The original data includes a split of 130,908 non-cancerous and 89,117 cancerous samples, totaling 220,025 images.
 
 ## Exploratory Data Analysis (EDA)
